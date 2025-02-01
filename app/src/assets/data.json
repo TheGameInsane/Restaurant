@@ -1,0 +1,28 @@
+[
+    {
+        "image": "src/assets/dish1.jpg",
+        "name": "Shahi Korma",
+        "desc": "1234",
+        "type": "veg"
+    },{
+        "image": "src/assets/dish2.jpg",
+        "name": "Mix Veg",
+        "desc": "1234",
+        "type": "veg"
+    },{
+        "image": "src/assets/dish3.jpg",
+        "name": "Chicken 65",
+        "desc": "1234",
+        "type": "nonveg"
+    },{
+        "image": "src/assets/dish4.jpg",
+        "name": "Tandoori Chicken",
+        "desc": "1234",
+        "type": "nonveg"
+    },{
+        "image": "src/assets/dish5.jpg",
+        "name": "Afghani Chicken",
+        "desc": "1234",
+        "type": "nonveg"
+    }
+]
