@@ -6,7 +6,7 @@ import Menu from "./components/Menu";
 function App() {
   return (
     <>
-      <div className="bg-black">
+      <div className="select-none">
       <Head/>
       <Hero />
       <Menu />
